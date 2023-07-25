@@ -1,4 +1,4 @@
-# WEALTH IT
+# WEALTH IT 
 
 WEALTH IT is a website application designed to help Millennials and Gen Z folks calculate and track their wealth. This web app was created to promote wealth building among communites of color.  
 
