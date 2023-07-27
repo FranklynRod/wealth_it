@@ -21,20 +21,18 @@ WEALTH IT Users are able to register or sign in account via Google Authenticatio
 ## API
 ***
 
-WEALTH IT uses Stripe API for user to purchase 
-* Get recipes based on ingredients searched
-* Get recipes that populate homepage
-* Read saved recipes on user's profile
-* Delete favorite recipes by unfavoriting recipe on profile page
+WEALTH IT uses Stripe API for user to purchase membership
+* Free tier: Access to networth calculator and chart of users networth data.
+* Paid tier: Access to free tier features and graph of users networth data. 
 
 ## Postgres
 ***
 
 WEALTH IT uses postgres to manage user data
-* Create net wealth entry points
-* Update asset and liability entry points
-* Delete asset and liability entry points
-
+* Create user asset or debt entry points
+* Read user asset or debt entry points
+* Update user asset or debt entry points
+* Delete user asset or debt entry points
 
 ## Installation
 ***
